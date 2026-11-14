@@ -1,0 +1,10 @@
+# Alternative to conda for local development/CI (Python 3.11)
+anndata==0.11.4
+scanpy==1.11.1
+numpy==1.26.4
+pandas==2.2.3
+scipy==1.13.1
+scikit-learn==1.5.2
+matplotlib==3.9.2
+h5py==3.12.1
+pytest==8.3.4

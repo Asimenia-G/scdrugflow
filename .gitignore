@@ -1,0 +1,37 @@
+# Public data are downloaded separately; do not commit any AnnData inputs.
+/data/*
+!/data/.gitkeep
+*.h5ad
+
+# Results, execution and local caches
+/results/
+/work/
+.nextflow*
+*.trace
+*.timeline
+*.html
+*.log
+
+# Local patch archives and pre-release backups
+*.zip
+*.before_*
+*.bak
+*~
+
+# Temporary local analysis outputs, if run outside results/
+/analysis/
+/ra_analysis/
+/ra_quality/
+/inspection.json
+
+# Python caches and virtual environments
+__pycache__/
+.pytest_cache/
+*.py[cod]
+.venv/
+.env
+
+# Editor and OS metadata
+.vscode/
+.idea/
+.DS_Store
