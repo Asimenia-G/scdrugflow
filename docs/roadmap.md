@@ -17,4 +17,4 @@
 - Production-level containers, cloud/HPC schedulers or large-cohort scaling
 - Automated Nextflow end-to-end CI and per-platform environment lockfiles
 
-These are potential future enhancements, **not** claimed capabilities of this release.
+
