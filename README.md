@@ -149,4 +149,3 @@ The test suite covers numerical calculations (including sparse/dense matrices), 
 - Original experiment: Gehring J, Park JH, Chen S, Thomson M & Pachter L (2020). *Highly multiplexed single-cell RNA-seq by DNA oligonucleotide tagging of cellular proteins.* *Nature Biotechnology* 38, 35–38. [DOI: 10.1038/s41587-019-0372-z](https://doi.org/10.1038/s41587-019-0372-z).
 - Dataset release: [Zenodo 13350497](https://zenodo.org/records/13350497). The `.h5ad` is downloaded separately and is **not** redistributed with this code.
 
-This is a public-data software case study developed with AI-assisted drafting and debugging; the code and methods should be reviewed, run, and interpreted by its maintainer. No restricted thesis or institutional scripts are included. Source code is available under the [MIT licence](LICENSE); the public dataset's own terms remain separate.
